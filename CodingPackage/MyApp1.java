@@ -1,11 +1,7 @@
 package CodingPackage;
 
-public class vanMain {
+class MyApp1 {
     public static void main(String[] args) {
-
-    }
-
-    static void logReg() {
 
     }
 }
